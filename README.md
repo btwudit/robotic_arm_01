@@ -59,6 +59,3 @@ movement of multiple robotic-arm joints.
 - Add object-gripping automation
 - Add computer-vision-based control
 
-## Photos
-
-[Add project photographs here]
